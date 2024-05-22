@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEPORTES A FULL</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+    <header class="header">
+        <div class="divh">
+            <h1>DEPORTES A FULL</h1>
+        </div>
+        <div class="divh">imagen head</div>
+    </header>
+    <nav>
+        <div class="navegador"><div class="navegador">FUTBOL</div><div class="navegador">BASKET</div><div class="navegador">NATACION</div><div class="navegador">BOX</div><div class="navegador">MMA</div></div>
+    </nav>
+        <div class="explicacion">
+            <article>AQUI ENCONTRARAS ARTICULOS SOBRE DIFERENTES DEPORTES ADEMAS DE NOTICIAS SOBRE LAS DIFERENTES DISCIPLINAS DEPORTIVAS COMO POR EJEMPLO, FUTBOL, BASQUETBOL, DEPORTES DE CONTACTO, NATACION.</article>
+        </div>
+            <section class="deportes">seccion futbol</section>
+            <section class="deportes">seccion basket</section>
+            <section class="deportes">seccion natacion</section>
+            <section class="deportes">seccion box</section>
+            <section class="deportes">seccion MMA</section>
+    <footer>
+        <div class="cont-footer">
+            <div class="navegador">CONTACTANOS</div><div class="navegador">LINKS A YT</div><div class="navegador">PENDIENTE</div><div class="navegador">PENDIENTE</div>
+        </div>
+    </footer>
+</body>
+</html>

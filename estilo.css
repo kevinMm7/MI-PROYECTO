@@ -1,0 +1,84 @@
+body{
+    background-color: #222A47;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+.header{
+    height: 150px;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 1200px auto;
+    border-radius: 2opx;
+}
+
+.divh{
+    grid-gap: 5px;
+    border: 3px solid #A94A1E;
+    background-color: #92051A;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.navegador{
+    height: 40px;
+    align-items: center;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 290px 290px 290px 290px 290px;
+    border-radius: 8px;
+}
+
+.nave{
+    background-color: #88093B;
+    height: 40px;
+    align-items: center;
+    border: 3px solid #A94A1E;
+    display: grid;
+    grid-template-columns: 290px 290px 290px 290px 290px;
+    border-radius: 8px;
+}
+
+.contenedor{
+    border: 3px solid #A94A1E;
+    background-color: #CD4D28;
+    display: flexbox;
+    border-radius: 8px;
+    grid-gap: 20px;
+}
+
+.explicacion{
+    display: flex;
+    background-color: #CD4D28;
+    border: 3px solid #A94A1E;
+    border-radius: 10px;
+}
+
+.deportes{
+    border: 3px solid #A94A1E;
+    background-color: #BC8506;
+    border-radius: 10px;
+    height: 300px;
+    width: 250px;
+    display: inline-grid;
+    grid-gap: 7px;
+}
+
+.cont-footer{
+    height: 40px;
+    align-items: center;
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 290px 290px 290px 290px 290px;
+    border-radius: 8px;
+}
+
+.footer{
+    background-color: #88093B;
+    height: 40px;
+    align-items: center;
+    border: 3px solid #A94A1E;
+    display: grid;
+    grid-template-columns: 290px 290px 290px 290px 290px;
+    border-radius: 8px;
+}
